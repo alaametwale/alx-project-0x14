@@ -1,0 +1,9 @@
+const Header = () => {
+  return (
+    <header className="p-4 bg-gray-900 text-white">
+      <h1>ALX Movie App</h1>
+    </header>
+  );
+};
+
+export default Header;
